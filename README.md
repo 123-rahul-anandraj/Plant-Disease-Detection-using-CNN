@@ -9,6 +9,9 @@ The data processing and image augmentation are done using the Keras deep-learnin
 Images of diverse plants, both diseased and healthy leaves, were included in the dataset used in this study. 
 The dataset contains images of various plant leaves like Apple, Cherry, Corn, Strawberry, Grape, Orange, Peach, Pepper, Tomato and Potato.
 
+The training & testing portion of this project is been done using Google Collab in Python.
+And the frontend(Webpage) is been developed using Python library: Streamlit.
+
 # Output of our project:
 ![GitHub Logo](project_result_pic/result_pic_1.jpg) 
 ![GitHub Logo](project_result_pic/result_pic_2.jpg)
