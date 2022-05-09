@@ -9,3 +9,8 @@ The data processing and image augmentation are done using the Keras deep-learnin
 Images of diverse plants, both diseased and healthy leaves, were included in the dataset used in this study. 
 The dataset contains images of various plant leaves like Apple, Cherry, Corn, Strawberry, Grape, Orange, Peach, Pepper, Tomato and Potato.
 
+# Output of our project:
+(Plant-Disease-Detection-using-CNN/result_pic_1.jpg)
+(Plant-Disease-Detection-using-CNN/result_pic_2.jpg)
+(Plant-Disease-Detection-using-CNN/result_pic_5.jpg)
+(Plant-Disease-Detection-using-CNN/result_pic_6.jpg)
